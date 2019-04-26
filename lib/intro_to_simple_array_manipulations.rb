@@ -1,4 +1,4 @@
-
+require pry
 
 def using_push(countries_in_west_africa, next_country)
   countries_in_west_africa.push('Niger')
@@ -15,7 +15,7 @@ end
 def pop_with_args(chars_in_game_of_thrones)
   chars_in_game_of_thrones.pop(2)
 end
-require pry
+
 def using_shift(my_favorite_cities)
   my_favorite_cities.shift
 end
