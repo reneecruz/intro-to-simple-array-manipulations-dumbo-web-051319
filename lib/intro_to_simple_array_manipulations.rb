@@ -40,6 +40,6 @@ def using_flatten(private_colleges_in_newyork)
   private_colleges_in_newyork.flatten
 end
 
-using_delete(instructors,no_offense_steven)
+def using_delete(instructors,no_offense_steven)
   instructors.delete('Steven')
 end
