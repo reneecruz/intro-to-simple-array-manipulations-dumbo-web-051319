@@ -9,3 +9,5 @@ end
 def using_pop
   great_hits_of_the_nineties.pop('Losing My Religion')
 end
+
+def pop_with_args()
