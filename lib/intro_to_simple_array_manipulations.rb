@@ -1,4 +1,4 @@
-require pry
+
 
 def using_push(countries_in_west_africa, next_country)
   countries_in_west_africa.push('Niger')
