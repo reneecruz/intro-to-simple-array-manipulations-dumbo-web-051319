@@ -21,5 +21,5 @@ def using_shift(my_favorite_cities)
 end
 
 def shift_with_args(icecream_brands)
-  icecream_brands.shift(0,1)
+  icecream_brands.shift(1)
 end
