@@ -24,6 +24,6 @@ def shift_with_args(icecream_brands)
   icecream_brands.shift(2)
 end
 
-def using_concat()
-  
+def using_concat(my_favorite_things, all_my_favs)
+  all_my_favs.concat(my_favorite_things)
 end
