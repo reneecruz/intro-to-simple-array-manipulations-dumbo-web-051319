@@ -31,3 +31,6 @@ end
 def using_insert(list_of_esoteric_programming_languages, another_esoteric_language)
   list_of_esoteric_programming_languages.insert(4,'Malbolge')
 end
+
+def using_uniq()
+end
