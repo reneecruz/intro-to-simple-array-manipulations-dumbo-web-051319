@@ -23,3 +23,7 @@ end
 def shift_with_args(icecream_brands)
   icecream_brands.shift(2)
 end
+
+def using_concat()
+  
+end
